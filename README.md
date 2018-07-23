@@ -1,6 +1,6 @@
 # WebMagic-0.5.2 with Selenium
-Example:
+Example:  
  At the PageProcesser java file, in the process function:  
- 'page.getHandler().sendKey()'  
- 'page.getHandler().click()'  
- 'page.getHandler().executeJavaScript()'
+    page.getHandler().sendKey()
+    page.getHandler().click()  
+    page.getHandler().executeJavaScript()
